@@ -34,6 +34,8 @@ is typically dry and difficult.
 
 <img class="ui medium left floated image" src="../images/blackboard.jpg">
 
+Image credit: https://www.memecenter.com/fun/91630/huge-blackboard
+
 So there's the typical software engineering (pedagogy) for you, now how about this athletic software engineering?
 
 ASE is different in that instead of spending class time taking notes on lectures, lectures 

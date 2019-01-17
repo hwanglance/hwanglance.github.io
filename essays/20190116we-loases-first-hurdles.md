@@ -32,6 +32,8 @@ more than I had expected.  Maybe it's the opposite for you, you expected them to
 Maybe there are some people who find this work easy and/or entertaining, but for me the work (pertaining to the courses, at least) 
 is typically dry and difficult.
 
+<img class="ui medium left floated image" src="../images/blackboard.jpg">
+
 So there's the typical software engineering (pedagogy) for you, now how about this athletic software engineering?
 
 ASE is different in that instead of spending class time taking notes on lectures, lectures 

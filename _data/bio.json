@@ -24,34 +24,24 @@
         "network": "linkedin",
         "username": "",
         "url": ""
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
       }
     ]
   },
   "interests": [
     {
-      "name": "",
+      "name": "software engineering",
       "keywords": [
         "",
         ""
       ]
     },
     {
-      "name": "",
+      "name": "mathematics",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "algorithms",
       "keywords": [
       ]
     }

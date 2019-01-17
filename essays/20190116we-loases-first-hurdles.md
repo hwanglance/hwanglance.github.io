@@ -9,6 +9,7 @@ labels:
   - Reflection
 ---
 
+## Life of a Software Engineering Student: Surviving the First Hurdles of Athletic Software Engineering
 So I'm writing about my software engineering course (ICS 314 at the University of Hawaii at Manoa), perhaps for those of you who are 
 interested in a career related to computer science.
 
@@ -16,7 +17,7 @@ I don't know what sort of classroom innovations you are experiencing (if you are
 me: something my instructor(s) call athletic software engineering (or ASE, for short).  
 Let me throw in another acronym for the typical software engineering pedagogy (or TSE, for short).
 
-TSE vs. ASE
+## TSE vs. ASE
 If you've never sat in a typical college lecture (or at least, what I would consider typical), all we would do for the most part is 
 come to class, sit, take notes on the lecture, and just leave after the lecture is over.  There would be roughly one or two midterms 
 and then a final in class.  Everything else outside of class is just 
@@ -47,7 +48,7 @@ problem sets (or some other real-time/timed activity) and lectures or lecture-li
 class (usually online), which is opposite or 'flipped' from the typical classroom.  Hence, the term 'flipped classroom'.
 
 
-My First Experiences with ASE and WODs
+## My First Experiences with ASE and WODs
 So far we've had two online practice WODs, one in-class practice group WOD (say that five times fast), and one real solo WOD.  
 They're introductory and yet for the real WOD I barely made time with only 20 seconds of the 15 minutes left on the clock.
 
@@ -68,7 +69,7 @@ Real Solo WOD (DNF is +15 minutes)
 My time: 14 minutes, 40 seconds
 
 
-Conclusions and Final Thoughts on ASE vs. TSE
+## Conclusions and Final Thoughts on ASE vs. TSE
 So what are my thoughts and opinions on WODs/ASE vs. TSE?  Well, I think I will just have to get used to the WODs.  
 Yes, they're hard, but the other alternative is the typical not-flipped lecture, which means I will have to learn the same material, 
 same difficult concepts, but in a less lively fashion.  If you're thinking of pursuing a degree in computer science or computer 

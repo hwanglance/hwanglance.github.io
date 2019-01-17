@@ -1,0 +1,61 @@
+---
+layout: essay
+type: essay
+title: Life of a Software Engineering Student: Surviving the First Hurdles of Athletic Software Engineering
+# All dates must be YYYY-MM-DD format!
+date: 2019-01-16
+labels:
+  - Software Engineering
+  - Reflection
+---
+
+REMEMBER TO CHANGE THE ESSAY TITLE AND THE FILENAME!!!
+
+So. What do you think about Javascript so far? 
+If you’re a complete newbie, how does it compare to other programming languages that you know? 
+If you have prior experience, did you learn new things from this module, perhaps with respect to ES6? 
+Do you think Javascript is a good or bad programming language from a software engineering perspective?
+
+What about athletic software engineering? 
+Did you find the practice WODs to be useful? 
+What do you think about this style of learning? 
+Is it stressful? 
+Is it enjoyable? 
+Do you think it will work for you?
+
+So I'm writing about my software engineering course, perhaps for those of you who are interested in a career related to 
+computer science.
+
+I don't know what sort of classroom innovations you are experiencing (if you are), but in this course I'm experiencing something new to 
+me: something my instructor(s) call athletic software engineering.
+
+If you've never sat in a typical college lecture (or at least, what I would consider typical), all we would do for the most part is 
+come to class, sit, take notes on the lecture, and just leave after the lecture is over.  There would be roughly one or two midterms 
+and then a final in class.  Everything else outside of class is just 
+assigned readings (sometimes from an online source, not just textbooks if that helps a little), problem sets, and reading solutions to 
+exams and problem sets.  
+
+But note that every professor seems to teach in a way that's 
+completely different in a way such that there really isn't consensus, agreement, or syncronization between them all, which I 
+personally did not expect.  I thought the professors would all think and teach roughly the same way, but they differed and varied 
+more than I had expected.  Maybe it's the opposite for you, you expected them to be more varied.  I don't know.
+
+Maybe there are some people who find this work easy and/or entertaining, but for me the work (pertaining to the courses, at least) 
+is typically dry and difficult.
+
+So there's the typical software engineering (pedagogy) for you, now how about this athletic software engineering?
+
+Athletic software engineering is different in that instead of spending class time taking notes on lectures, lectures 
+are handled for the most part on a Morea website (Morea actually stands for modules, outcomes, readings, 
+experiences, and... activities?  I can't seem to find what the A stands for, oh well).  This leaves time in class for these 
+workouts of the day, or WODs for short.
+
+If you're new to WODs, they are timed exercises where we are tasked to finish a certain programming feat before time runs out.  
+If it's a solo practice WOD, you self time it.  That's it.  Simple, right?
+
+So far we've had two online practice WODs, one in-class practice group WOD (say that five times fast), and one real solo WOD.  
+They're introductory and yet for the real WOD I barely made time with only 20 seconds of the 15 minutes left on the clock.
+
+I'll post my data for the WODs below.
+
+

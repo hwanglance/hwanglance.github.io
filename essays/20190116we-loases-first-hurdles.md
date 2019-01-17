@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Life of a Software Engineering Student: Surviving the First Hurdles of Athletic Software Engineering
+title: Life of a Software Engineering Student - Surviving the First Hurdles of Athletic Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-16
 labels:

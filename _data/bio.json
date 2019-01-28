@@ -4,13 +4,9 @@
     "label": "Student",
     "picture": "https://hwanglance.github.io/images/lancephoto.jpg",
     "email": "hwangl@hawaii.edu",
-    "phone": "",
     "website": "https://hwanglance.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -30,18 +26,12 @@
   "interests": [
     {
       "name": "software engineering",
-      "keywords": [
-      ]
     },
     {
       "name": "mathematics",
-      "keywords": [
-      ]
     },
     {
       "name": "algorithms",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
@@ -69,8 +59,8 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2017-09-01",
+      "endDate": "Present",
       "gpa": "",
       "courses": [
       ]

@@ -31,8 +31,6 @@
     {
       "name": "software engineering",
       "keywords": [
-        "",
-        ""
       ]
     },
     {
@@ -53,21 +51,16 @@
       "keywords": [
         "C",
         "C++",
-        "",
-        "Javascript",
-        "",
-        ""
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        ""
+        "Windows 10",
+        "Android",
+        "Git/GitHub"
       ]
     }
   ],

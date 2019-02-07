@@ -9,7 +9,6 @@ labels:
   - Reflection
 ---
 
-# Getting the Code to Fit (Specifically, Getting Javascript ES6 Code to Fit an ESLint Coding Standard)
 I'm at a point in my software engineering coursework where we (all the students in the class, I suppose) are making the transition from a bootstrapping set of Javascript coding systems (FreeCodeCamp, JSFiddle, etc.) to a desktop environment (IntelliJ IDEA) that I suppose is going to slowly but surely further transition into a professional-looking coding environment.  Hopefully, I can handle that.  But, for now, one of the main changes from the bootstrapping systems is the addition of a coding standard called ESLint.
 
 ## What is a coding standard?  What is ESLint?

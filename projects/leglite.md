@@ -18,3 +18,7 @@ Lorem ipsum text.
 
 Xilinx Vivado WebPACK
 Digilent Basys 3 Artix-7 FPGA Trainer Board
+
+
+
+Source: <a href="https://github.com/hwanglance/leglite"><i class="large github icon "></i>hwanglance/leglite</a>

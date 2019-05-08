@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: false
-image: images/leglite-square.jpg
+image: images/LEGLiteP0real-lowres.jpg
 title: Cotton
 permalink: projects/leglite
 # All dates must be YYYY-MM-DD format!

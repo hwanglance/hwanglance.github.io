@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: A Brief Comparison Between Semantic UI and Raw HTML and CSS
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-06
